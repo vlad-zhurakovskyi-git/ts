@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a02ca809-7ede-4818-87ef-a58060ed90c0" name="Changes" comment="first commit" />
+    <list default="true" id="a02ca809-7ede-4818-87ef-a58060ed90c0" name="Changes" comment="Created ts project">
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreateProduct.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ErrorMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Product.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/ModalContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/products.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoremPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/atlasmac/WebstormProjects/ts/src/pages",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/atlasmac/WebstormProjects/ts/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -58,8 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1672172869311</updated>
       <workItem from="1672172870960" duration="998000" />
-      <workItem from="1672174056280" duration="346000" />
+      <workItem from="1672174056280" duration="14762000" />
     </task>
+    <task id="LOCAL-00001" summary="create react app + ts template">
+      <created>1672174723637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672174723637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create react app + ts template" />
+    <MESSAGE value="Created ts project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created ts project" />
   </component>
 </project>
